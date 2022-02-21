@@ -1,1 +1,1 @@
-If you will used the 'esm' module then the gulp file should be written has follow 'gulpfile.esm.js', either 'gulpfile.js
+If you will use the 'esm' module then the gulp file should be written has follows 'gulpfile.esm.js', not 'gulpfile.js
