@@ -1,0 +1,19 @@
+{
+  "name": "protowebsite",
+  "version": "1.0.0",
+  "description": "Scalffolding",
+  "main": "js/main.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "gsap": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

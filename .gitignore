@@ -1,0 +1,5 @@
+gulpfile.js
+gulpfile.esm.js
+node_modules/**
+.parcel-cache
+package-lock.json
